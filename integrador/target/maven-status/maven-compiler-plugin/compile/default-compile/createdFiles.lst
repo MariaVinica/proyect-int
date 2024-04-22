@@ -1,0 +1,5 @@
+com\example\integrador\model\Equipment.class
+com\example\integrador\IntegradorApplication.class
+com\example\integrador\repository\EquipmentRepository.class
+com\example\integrador\service\EquipmentService.class
+com\example\integrador\controller\EquipmentController.class
