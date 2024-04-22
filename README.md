@@ -17,3 +17,6 @@ Se implementaron pruebas unitarias y de integración para asegurar la calidad de
 
 ### Pruebas de Integración
 - `equipmentIntegrationTest`: Ejecuta una serie de pruebas para asegurar que los componentes del sistema funcionen juntos correctamente.
+
+##Front 
+- Traté de hacer lo que pude, la realidad es que no se me da muy bien el front
